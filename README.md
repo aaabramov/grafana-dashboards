@@ -1,6 +1,6 @@
 # grafana-dashboards
 
-Source code for useful Grafana dashboards published to grafana.com.
+Source code for useful Grafana dashboards published to [grafana/dashboards](https://grafana.com/grafana/dashboards).
 
 ---
 
@@ -8,4 +8,4 @@ Source code for useful Grafana dashboards published to grafana.com.
 
 ### [Prometheus Blackbox Exporter dashboard](blackbox-exporter)
 
-![Prometheus Blackbox Exporter dashboard](blackbox_logo.png)
+![Prometheus Blackbox Exporter dashboard](blackbox-exporter/blackbox_logo.png)
